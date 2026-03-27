@@ -11,8 +11,6 @@ public class CRC {
             else
                  result += "1";
         }
-
-        
         return result;
     }
     
